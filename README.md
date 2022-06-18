@@ -3,7 +3,7 @@
 # Problem Description
 Otimizar a localização de estoque intinerante tomando com base sazonalidade, distribuição, malha viaria e demais fatores para pequenos produtores familiares distribuidos pelo o interior do Brasil
 ### Cultivos no Maranhão
-![alt text](![Aptidao-Agricola-1](https://user-images.githubusercontent.com/43246444/174458982-93387cb6-409c-4316-b0dc-c89ca9439f25.png)
+(![Aptidao-Agricola-1](https://user-images.githubusercontent.com/43246444/174458982-93387cb6-409c-4316-b0dc-c89ca9439f25.png)
 )
 
 ### Agricultura familiar pelo Brasil
